@@ -25,12 +25,12 @@ jobs:
           github_user_name: derko510
           # outputs: one per line, can include query params
           outputs: |
-             # light‑mode SVG with blue snake
-             dist/github-snake.svg?color_snake=%230000FF
-             # dark‑mode SVG (keep dark palette, blue snake)
-             dist/github-snake-dark.svg?palette=github-dark&color_snake=%230000FF
-             # optional: blue snake + default dots palette
-             dist/ocean.gif?color_snake=%230000FF
+            # Light‑mode SVG with SteelBlue snake
+            dist/github-snake.svg?color_snake=%234682B4
+            # Dark‑mode SVG with SteelBlue snake
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%234682B4
+            # GIF version with SteelBlue snake
+            dist/ocean.gif?color_snake=%234682B4
 
       - name: Commit & Push generated files
         uses: EndBug/add-and-commit@v9
