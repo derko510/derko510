@@ -1,2 +1,7 @@
 - name: generate-snake-game-from-github-contribution-grid
   uses: Platane/snk@v3.3.0
+
+on:
+  schedule:
+    - cron: "0 0 * * *"       # daily at midnight UTC
+  workflow_dispatch:         # enables manual runs
