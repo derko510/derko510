@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 🎓 MS in Computer Science (AI), Georgia Tech | BS in CS, UCSC  
+- 🎓 Studying for my MS in Computer Science (AI), Georgia Tech | BS in CS, UCSC  
 - 🛠️ I build full-stack tools, automations, and dashboards that solve real-world problems  
 - 🤖 Passionate about AI, automation, developer tooling, and clean system design  
 - 🧠 Always tinkering — whether it’s building bots, deploying ML apps, or optimizing infrastructure
