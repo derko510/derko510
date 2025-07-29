@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derko510&show_icons=true&theme=tokyonight" alt="Derrick's GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/derko510/derko510/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
