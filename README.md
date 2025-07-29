@@ -41,12 +41,6 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/derko510/derko510/main/dist/github-snake-dark.svg"
     />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/derko510/derko510/main/dist/github-snake.svg"
-    />
-  </picture>
-</p>
 
 <p align="center">
   <img
