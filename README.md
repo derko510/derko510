@@ -28,10 +28,14 @@
 ---
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/derko510/derko510/main/dist/github-snake-dark.svg"
-    />
-      </picture>
+  <img
+    src="https://raw.githubusercontent.com/derko510/derko510/main/dist/github-snake.svg"
+    alt="Light‑mode GitHub snake"
+    width="60%"
+  />
+  <img
+    src="https://raw.githubusercontent.com/derko510/derko510/main/dist/github-snake-dark.svg"
+    alt="Dark‑mode GitHub snake"
+    width="60%"
+  />
 </p>
